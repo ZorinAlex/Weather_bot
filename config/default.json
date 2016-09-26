@@ -1,6 +1,6 @@
 {
     "appSecret": "7b3c0ccbd5c2dcc11c92b3399d0f230b",
-    "pageAccessToken": "EAACwY8R2z1ABAHhr8coGAhxWd9ew8IPi1D7X1SCH3qZCREFIoXnYTXST00PA9dcpncDQt1rZCzFisnoahJSoZA3tG3chi8SQKOkDXDz1eDhaNE8xONG9uKGbMiKhKPZCcQKxHMcZBZBOd9VQsVvw3cPEHH1nratTK8VrDB36GQdQZDZD",
+    "pageAccessToken": "EAACwY8R2z1ABAOP6B952LMTMV4aezN4iY7PZChgK4sEFiqiE2aYKZBmhQgSX5Lwkj024rgt00Ac4tyvP2bgi5MXPQpV9nVrAzOeLZAoFUuGbcnucrU3AnhbYHh5XeEz0cryoSm1jsQSCBJcjmL25N8T6QsYZCN5bZAo0wO546qAZDZD",
     "validationToken": "my_boot_verify_token",
     "serverURL": "https://weatherechobot.herokuapp.com/"
 }
