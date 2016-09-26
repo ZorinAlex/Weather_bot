@@ -255,7 +255,7 @@ function receivedMessage(event) {
         sendQuickReply(senderID);
         break;
       case 'Hello':
-        sendTextMessage(senderID, timeOfMessage);
+        sendTextMessage(senderID, metadata);
         break;
     }
     //  switch (messageText) {
